@@ -1,0 +1,8 @@
+# 本项目需要 Python 3.11 版本
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.1
+statsmodels==0.14.4
+matplotlib==3.10.3
+pymysql==1.1.1
+sqlalchemy==2.0.39
